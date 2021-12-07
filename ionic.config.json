@@ -1,0 +1,7 @@
+{
+  "name": "appNubank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

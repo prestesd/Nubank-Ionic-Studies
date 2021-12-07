@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appNubank",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
